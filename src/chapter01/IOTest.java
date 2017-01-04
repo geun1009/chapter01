@@ -7,7 +7,8 @@ public class IOTest {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		 System.out.println("Hello World"); System.out.print("Hello World\n");
+		 System.out.println("Hello World");
+		 System.out.print("Hello World\n");
 		 System.out.println("Hello World");
 		 
 		 //줄만 바꿀때 
